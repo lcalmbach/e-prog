@@ -1,0 +1,22 @@
+Ersetzen von alle dezentralen Erdgas und Ölheizungen durch Fernwärme
+Ausgangsjahr 2018
+Verbrauch dezentrale Ölheizugnen: Input Endverbraucher Öl
+Verbrauch dezentrale Erdgasheizungen (mit oder ohne Nahwärme?)
+Anzahl dezentrale Ölheizugnen: Input Endverbraucher Öl
+Anzahl dezentrale Erdgasheizungen (mit oder ohne Nahwärme?)
+
+Verbrauch Abfall Fernwärme
+Verbrauch Erdgas Fernwärme
+Verbrauch Holz Fernwärme
+Verbrauch Erdwärme Fernwärme
+
+
+Simulation
+Mehrverbrauch FW = delta Erdgas + delta Öl
+Anteile Holz FW neu
+Anteile Umweltwärme/Geothermie FW neu
+Anteile Erdgas FW neu = 100 - obiges
+
+Ausgabe Zahlen: Eingespartes Erdgas, Erdöl
+Ausgabe Zahlen: Abbau Heizungen
+
